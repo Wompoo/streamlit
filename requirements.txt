@@ -9,4 +9,3 @@ requests
 tqdm
 numpy
 openai-whisper
-ffmpeg
