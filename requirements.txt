@@ -9,3 +9,5 @@ requests
 tqdm
 numpy
 git+https://github.com/openai/whisper.git
+librosa
+tempfile
